@@ -8,3 +8,4 @@ The Purpose of this challenege was to reinforce Jquery practices in a dynamic se
 ![Image](./assets/images/Readme%20img.png)
 
 ## Deployment link
+https://dav3ster.github.io/Daily_Planner/
